@@ -1,0 +1,15 @@
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\ConsoleParallellProgramming.exe
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\ConsoleParallellProgramming.deps.json
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\ConsoleParallellProgramming.runtimeconfig.json
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\ConsoleParallellProgramming.runtimeconfig.dev.json
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\ConsoleParallellProgramming.dll
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\ConsoleParallellProgramming.pdb
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.csprojAssemblyReference.cache
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.AssemblyInfoInputs.cache
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.AssemblyInfo.cs
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.csproj.CoreCompileInputs.cache
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.dll
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.pdb
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.genruntimeconfig.cache
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\subhamoyburman\source\repos\ConsoleParallellProgramming\obj\Debug\netcoreapp3.1\ConsoleParallellProgramming.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ul6eRPQxGn3a7Q8HLH6qISn3uGRjgjwyKlJRB7jOmoFOoKOMmIhgYiz9S41cDPZVilcktVWDGqsIh80WQTY1FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\subhamoyburman\\source\\repos\\ConsoleParallellProgramming\\ConsoleParallellProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subhamoyburman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
